@@ -1,0 +1,18 @@
+.header_container{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+.header_tx{
+    height: 35px;
+    width: 35px;
+    border-radius: 17.5px;
+    background: url('../../assets/04.jpg') no-repeat;
+    background-size: 100% 100%;
+    margin: 0 50px;
+    cursor: pointer;
+}
+
+.loginOut{
+    cursor: pointer;
+}
